@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/c19-tracker-app/static/css/main.810becba.chunk.css",
+    "main.js": "/c19-tracker-app/static/js/main.cc45ddcc.chunk.js",
+    "main.js.map": "/c19-tracker-app/static/js/main.cc45ddcc.chunk.js.map",
+    "runtime-main.js": "/c19-tracker-app/static/js/runtime-main.c32671fd.js",
+    "runtime-main.js.map": "/c19-tracker-app/static/js/runtime-main.c32671fd.js.map",
+    "static/js/2.ea900baa.chunk.js": "/c19-tracker-app/static/js/2.ea900baa.chunk.js",
+    "static/js/2.ea900baa.chunk.js.map": "/c19-tracker-app/static/js/2.ea900baa.chunk.js.map",
+    "index.html": "/c19-tracker-app/index.html",
+    "precache-manifest.83e8db31bac8a117320481d5591e2bf8.js": "/c19-tracker-app/precache-manifest.83e8db31bac8a117320481d5591e2bf8.js",
+    "service-worker.js": "/c19-tracker-app/service-worker.js",
+    "static/css/main.810becba.chunk.css.map": "/c19-tracker-app/static/css/main.810becba.chunk.css.map",
+    "static/js/2.ea900baa.chunk.js.LICENSE.txt": "/c19-tracker-app/static/js/2.ea900baa.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/c19-tracker-app/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c32671fd.js",
+    "static/js/2.ea900baa.chunk.js",
+    "static/css/main.810becba.chunk.css",
+    "static/js/main.cc45ddcc.chunk.js"
+  ]
+}
