@@ -2,7 +2,7 @@
   "name": "c19-tracker-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sushantm47.github.io/c19-tracker-app",
+  "homepage": "http://sushantm47.github.io/c19-tracker-app/build",
   "dependencies": {
     "@material-ui/core": "^4.9.11",
     "@testing-library/jest-dom": "^4.2.4",
