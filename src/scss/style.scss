@@ -3,10 +3,38 @@
 
 body {
   background-color: rgb(250, 250, 250);
+  font-family: "Roboto", sans-serif;
 }
 
 .container {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
+  margin: 0.5rem 5rem;
+}
+
+.image {
+  width: 25vh;
+  margin: 1rem 0 0 0;
+}
+
+@media (max-width: 768px) {
+  .container {
+    margin: 0 10%;
+  }
+  .image {
+    width: 70%;
+    margin: 2rem 0 1rem 0;
+  }
+
+  .cards_container {
+    & .card {
+      margin: 2% 0 !important;
+    }
+  }
+  .chart_container {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
 }

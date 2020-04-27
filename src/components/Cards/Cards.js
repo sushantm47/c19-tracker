@@ -1,10 +1,8 @@
 import React from "react";
 import { Card, CardContent, Typography, Grid } from "@material-ui/core";
 import CountUp from "react-countup";
-import cx from "classnames";
 
 const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
-  // console.log(props);
   if (!confirmed) {
     return <h3>Loading..</h3>;
   }
@@ -46,13 +44,13 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
             <Typography color="textSecondary">
               {new Date(lastUpdate).toDateString()}
             </Typography>
-            <Typography variant="body2">Number of recoveries Cases</Typography>
+            <Typography variant="body2">Number of recovery Cases</Typography>
           </CardContent>
         </Grid>
         <Grid item component={Card} xs={12} md={3} className="card deaths">
           <CardContent>
             <Typography color="textSecondary" gutterBottom>
-              Infected
+              Death
             </Typography>
             <Typography variant="h5">
               <CountUp
