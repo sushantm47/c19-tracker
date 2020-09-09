@@ -9,4 +9,5 @@ Installs required Dependencies.<br />
 Runs the app in the development mode.<br />
 Open [http://localhost:3000] to view it in the browser.
 
-link to deployed project:https://sushantm47.github.io/deploy-react/ 
+### link to deployed project:
+https://sushantm47.github.io/deploy-react/ 
